@@ -2,7 +2,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
-  background-image: url(../images/weather.png);
+  background-image: url(weather.png);
   background-size: auto;
   color: #D62AD0;
 
